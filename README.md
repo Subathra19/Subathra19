@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Subathra19
-- 👀 I’m interested in wireless networks
+- 👋 Hi, I’m Subathra
+- 👀 I’m working as a Network Analytics Engineer at Eishaa Networks, Chennai.
 - 🌱 I’m currently learning python, data structures and algorithms
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on my gmail: subathrad18@gmail.com
 
 <!---
