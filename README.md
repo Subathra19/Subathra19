@@ -1,6 +1,5 @@
 # Network Analtics Engineer
 Hey there, I'm Subathra - a **Network Analytics Engineer** at **Eishaa Networks**, want to learn, create, innovate and contribute. My learning principle is to never stop! 
-Here are some ideas to get you started:
 
 ### Connect with me on
 [<img align="left" alt="subathra | Github" width="22px" src="https://github.com/Subathra19/Subathra19/blob/main/icons8-github-48.png" />][Github]
