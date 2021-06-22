@@ -23,7 +23,12 @@ Hey there, I'm Subathra - a **Network Analytics Engineer** at **Eishaa Networks*
   >> * A microstrip patch antenna was designed and its radio pattern is obtained for different frequencies using the antenna designer in MATLAB.
   >> * Zigbee model was introduced inside the enhanced NOC model using communication, SimEvents, and Simulink toolbox in Simulink. 
 
->>>**LTE-A for military applications** 
+>>**LTE-A for military applications** 
+  >> * Implemented an LTE single core network using INETv4.1.1 and LTE module in OMNET++.
+  >> * Different test case scenarios such as a network with high mobile nodes, static nodes, dense network, and so on were created to check the network performance. 
+  >> * Modiﬁed the existing eNB module by adding UE and EPC modules in OMNET++. 
+  >> * An algorithm was introduced to switch the eNB nodes between different states (isolated, meshed, vUE) based on the mobility of nodes and availability of the core network.
+  >> * Reviewed the model and ﬁxed the issues raised during the integration of the module. 
 
 
 
