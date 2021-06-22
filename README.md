@@ -1,5 +1,5 @@
 # Network Analtics Engineer
-Hey there, I'm Subathra - a **Network Analytics Engineer** at **Eishaa Networks**, want to learn, create, innovate and contribute. My learning principle is to never stop! 
+Hey there, I'm Subathra - a **Network Analytics Engineer** at **Eishaa Networks**, want to learn, create, innovate and contribute. My principle is to never stop learning! 
 
 ### Connect with me on
 [<img align="left" alt="subathra | Github" width="22px" src="https://github.com/Subathra19/Subathra19/blob/main/icons8-github-48.png" />][Github]
@@ -8,11 +8,11 @@ Hey there, I'm Subathra - a **Network Analytics Engineer** at **Eishaa Networks*
 <br>
 
 ### My Technical skill set
-> * Proﬁciency with C and C++ language in Viusal Code Studiov1.57.0 (using GCC compiler).\
-> * Good working proﬁciency in MATLABv2018b, SIMULINKv1.14, OMNETv5.5.1 and LATEX.\
-> * Strong knowledge of 4G/5G wireless technologies.\
-> * Strong understanding of IP addressing,standard routing protocols and port security.\
-> * Knowledge of data structures and algorithms.\
+> * Proﬁciency with C and C++ language in Viusal Code Studiov1.57.0 (using GCC compiler).
+> * Good working proﬁciency in MATLABv2018b, SIMULINKv1.14, OMNETv5.5.1 and LATEX.
+> * Strong knowledge of 4G/5G wireless technologies.
+> * Strong understanding of IP addressing,standard routing protocols and port security.
+> * Knowledge of data structures and algorithms.
 > * Good understandingo ftools such as: ns-3.27, Cisco Packet Tracerv7.2.2, ArduinoIDEv1.8.2, LabVIEWv2014. 
 
 ### On the Job
