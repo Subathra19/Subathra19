@@ -23,6 +23,7 @@ Hey there, I'm Subathra - a **Network Analytics Engineer** at **Eishaa Networks*
   >> * A microstrip patch antenna was designed and its radio pattern is obtained for different frequencies using the antenna designer in MATLAB.
   >> * Zigbee model was introduced inside the enhanced NOC model using communication, SimEvents, and Simulink toolbox in Simulink. 
 
+>>>**LTE-A for military applications** 
 
 
 
