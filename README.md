@@ -44,5 +44,8 @@ Hey there, I'm Subathra - a **Network Analytics Engineer** at **Eishaa Networks*
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Subathra19&theme=blue-green)
 
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Subathra19&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+
 [Github]: https://github.com/Subathra19?tab=repositories
 [LinkedIn]: https://www.linkedin.com/in/sri-subathra-devi-b-50735280/
