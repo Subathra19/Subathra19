@@ -42,7 +42,7 @@ Hey there, I'm Subathra - a **Network Analytics Engineer** at **Eishaa Networks*
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Subathra19&theme=blue-green)
 
-<img src=https://komarev.com/ghpvc/?username = Subathra19>
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
 [Github]: https://github.com/Subathra19?tab=repositories
 [LinkedIn]: https://www.linkedin.com/in/sri-subathra-devi-b-50735280/
