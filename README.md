@@ -36,10 +36,11 @@ Hey there, I'm Subathra - a **Network Analytics Engineer** at **Eishaa Networks*
   >> * An algorithm was introduced to switch the eNB nodes between different states (isolated, meshed, vUE) based on the mobility of nodes and availability of the core network.
   >> * Reviewed the model and ﬁxed the issues raised during the integration of the module. 
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Subathra19&hide=issues&show_icons=true&theme=blue-green)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Subathra19&theme=blue-green)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Subathra19&hide=issues&show_icons=true&theme=blue-green)
+
 
 <!--[![Subathra's github stats](https://github-readme-stats.vercel.app/api?username=Subathra19&hide=prs,issues,contribs&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
