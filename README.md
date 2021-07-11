@@ -12,8 +12,8 @@ Hey there, I'm Subathra - a **Network Analytics Engineer** at **Eishaa Networks*
 > * Good working proﬁciency in MATLABv2018b, SIMULINKv1.14, OMNETv5.5.1 and LATEX.
 > * Strong knowledge of 4G/5G wireless technologies.
 > * Strong understanding of IP addressing,standard routing protocols and port security.
-> * Knowledge of data structures and algorithms.
-> * Good understandingo ftools such as: ns-3.27, Cisco Packet Tracerv7.2.2, ArduinoIDEv1.8.2, LabVIEWv2014. 
+> * Knowledge of SQL, and  data structures and algorithms.
+> * Good understanding of tools such as: ns-3.27, Cisco Packet Tracerv7.2.2, ArduinoIDEv1.8.2, LabVIEWv2014. 
 * I'm currently learning python language
 
 ### On the Job
