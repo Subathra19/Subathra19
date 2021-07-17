@@ -38,7 +38,7 @@ Hey there, I'm Subathra - a **Network Analytics Engineer** at **Eishaa Networks*
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Subathra19&hide=issues&show_icons=true&theme=blue-green)
 
-
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Subathra19&theme=blue-green)
 
 ![Your Repository's Stats](https://github-readme-streak-stats.herokuapp.com/?user=Subathra19&theme=blue-green)
 
