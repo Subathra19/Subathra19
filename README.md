@@ -6,7 +6,7 @@ Hey there, I'm Subathra - a **Network Analytics Engineer** at **Eishaa Networks*
 [<img align="left" alt="subathra | LinkedIn" width="22px" src="https://github.com/Subathra19/Subathra19/blob/main/icons8-linkedin-48.png" />][Linkedin]
 
 <br>
-
+[](https://www.codewars.com/users/Subathra19/badges/large)
 ### My Technical skill set
 > * Proﬁciency with C and C++ language in Viusal Code Studiov1.57.0 (using GCC compiler).
 > * Good working proﬁciency in MATLABv2018b, SIMULINKv1.14, OMNETv5.5.1 and LATEX.
