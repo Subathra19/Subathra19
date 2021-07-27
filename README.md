@@ -1,6 +1,9 @@
 # Network Analytics Engineer
 Hey there, I'm Subathra - a **Network Analytics Engineer** at **Eishaa Networks**, want to learn, create, innovate and contribute. My principle is to never stop learning! 
 
+![](https://komarev.com/ghpvc/?username=CodingSpecies)
+<img src="https://www.codewars.com/users/DestinyCodeSavvy/badges/micro"/>
+
 ### Connect with me on
 [<img align="left" alt="subathra | Github" width="22px" src="https://github.com/Subathra19/Subathra19/blob/main/icons8-github-48.png" />][Github]
 [<img align="left" alt="subathra | LinkedIn" width="22px" src="https://github.com/Subathra19/Subathra19/blob/main/icons8-linkedin-48.png" />][Linkedin]
