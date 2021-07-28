@@ -4,7 +4,7 @@ Hey there, I'm Subathra - a **Network Analytics Engineer** at **Eishaa Networks*
 ### Connect with me on
 [<img align="left" alt="subathra | Github" width="22px" src="https://github.com/Subathra19/Subathra19/blob/main/icons8-github-48.png" />][Github]
 [<img align="left" alt="subathra | LinkedIn" width="22px" src="https://github.com/Subathra19/Subathra19/blob/main/icons8-linkedin-48.png" />][Linkedin]
-[<img align="left" alt="subathra | CodeWars" width="22px" src="https://github.com/Subathra19/Subathra19/blob/main/codewars-48.png" />][CodeWars]
+[<img align="left" alt="subathra | CodeWars" width="22px" src="https://github.com/Subathra19/Subathra19/blob/main/codewars-icon-48.png" />][CodeWars]
 
 <br>
 <!--
