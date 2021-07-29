@@ -49,7 +49,7 @@ Hey there, I'm Subathra - a **Network Analytics Engineer** at **Eishaa Networks*
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Subathra19&hide=issues&show_icons=true&theme=blue-green" alt="Subathra's github stats" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subathra19&theme=blue-green" alt="Subathra's github language stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subathra19&layout=compact&theme=blue-green" alt="Subathra's github language stats" />
 
 ![Your Repository's Stats](https://github-readme-streak-stats.herokuapp.com/?user=Subathra19&theme=blue-green)
 
