@@ -40,12 +40,10 @@ Hey there, I'm Subathra - a **Network Analytics Engineer** at **Eishaa Networks*
   >> * An algorithm was introduced to switch the eNB nodes between different states (isolated, meshed, vUE) based on the mobility of nodes and availability of the core network.
   >> * Reviewed the model and ﬁxed the issues raised during the integration of the module. 
 
-
-### **Streaks & Trophies:**
-
+**Streaks & Trophies:**
 <br/>
 <br/>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Subathra19&theme=onedark&row=3&column=4" alt="slim coder's trophies" />
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Subathra19&theme=onedark&row=3&column=4" alt="subathra's trophies" />
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Subathra19&theme=blue-green)](https://git.io/streak-stats)
  
  [![github activity graph](https://activity-graph.herokuapp.com/graph?username=Subathra19&theme=react-dark)](https://github.com/ashutosh00710/github-readme-actvity-graph) 
