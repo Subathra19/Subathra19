@@ -41,7 +41,7 @@ Hey there, I'm Subathra - a **Network Analytics Engineer** at **Eishaa Networks*
   >> * Reviewed the model and ﬁxed the issues raised during the integration of the module. 
 
 
-**Streaks & Trophies:**
+### **Streaks & Trophies:**
 <br/>
 <br/>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Subathra19&theme=onedark&row=3&column=4" alt="slim coder's trophies" />
@@ -53,7 +53,7 @@ Hey there, I'm Subathra - a **Network Analytics Engineer** at **Eishaa Networks*
     <img width="50%" align="right" alt="Subathra's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subathra19&layout=compact&theme=blue-green" />
  </p> 
 
-**Languages and Tools:**
+### **Languages and Tools:**
   <p>
   <code><img src="https://img.icons8.com/color/96/000000/c-programming.png"></code>
   <code><img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png"></code>
