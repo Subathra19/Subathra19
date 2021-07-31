@@ -9,7 +9,7 @@ Hey there, I'm Subathra - a **Network Analytics Engineer** at **Eishaa Networks*
 <br>
 <!--
 <img src="https://www.codewars.com/users/Subathra19/badges/large">
--->
+
 
 ### My Technical skill set
 > * Proﬁciency with C and C++ language in Viusal Code Studiov1.57.0 (using GCC compiler).
@@ -19,7 +19,7 @@ Hey there, I'm Subathra - a **Network Analytics Engineer** at **Eishaa Networks*
 > * Knowledge of SQL, and  data structures and algorithms.
 > * Good understanding of tools such as: ns-3.27, Cisco Packet Tracerv7.2.2, ArduinoIDEv1.8.2, LabVIEWv2014. 
 * I'm currently learning python language
-
+-->
 ### On the Job
 > **Network Analtics Engineer Engineer** @Eishaa Networks, Chennai.
 >>**Low power design of Network on Chip** 
