@@ -59,17 +59,20 @@ Hey there, I'm Subathra - a **Network Analytics Engineer** at **Eishaa Networks*
   <code><img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png"></code>
   <code><img src="https://img.icons8.com/color/96/000000/python--v1.png"></code>
   <br />
-  <code><img src="https://img.icons8.com/fluency/96/000000/matlab.png"></code>
-  <code><img width="10%" src="https://pbs.twimg.com/profile_images/915927723880697856/7SdZ6Q3d_400x400.jpg"></code>
-  <code><img width="96" height="96"src="https://www.projectguideline.com/wp-content/uploads/2016/06/ns3logo1.png" ></code>
-  <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <br />
+  <code><img src="https://img.icons8.com/fluency/96/000000/matlab.png"></code>
   <code><img width="10%" src="https://pbs.twimg.com/profile_images/915927723880697856/7SdZ6Q3d_400x400.jpg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+  <code><img width="96" height="96" src="https://www.projectguideline.com/wp-content/uploads/2016/06/ns3logo1.png" ></code>
+  <br />
+  <code><img width="10%" src="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg"></code>
+  <code><img width="10%" src="https://labviewwiki.org/w/images/7/7e/LV2014.png"></code>
+  <code><img width="96" height="96" src="https://avatars.githubusercontent.com/u/6359919?s=200&v=4"></code>
+  <br/>
+  <code><img width="10%" src="https://avatars.githubusercontent.com/u/379109?s=200&v=4"></code>
+  <code><img width="12%" src="https://miro.medium.com/max/596/1*UeR6loyEl-mQGSd838X1-w.png"></code>
   <br/>
 
 
