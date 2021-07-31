@@ -1,10 +1,10 @@
 # Network Analytics Engineer
-Hey there, I'm Subathra - a **Network Analytics Engineer** at **Eishaa Networks**, want to learn, create, innovate and contribute. My principle is to never stop learning! 
+👋 &nbsp;Hey there, I'm Subathra - a **Network Analytics Engineer** at **Eishaa Networks**, want to learn, create, innovate and contribute. My principle is to never stop learning! 
 
 ### Connect with me on
-[<img align="left" alt="subathra | Github" width="22px" src="https://github.com/Subathra19/Subathra19/blob/main/icons8-github-48.png" />][Github]
-[<img align="left" alt="subathra | LinkedIn" width="22px" src="https://github.com/Subathra19/Subathra19/blob/main/icons8-linkedin-48.png" />][Linkedin]
-[<img align="left" alt="subathra | CodeWars" width="22px" src="https://github.com/Subathra19/Subathra19/blob/main/codewars-icon-48.png" />][CodeWars]
+[<img align="left" alt="subathra | Github" width="22px" src="https://github.com/Subathra19/Subathra19/blob/main/images/icons8-github-48.png" />][Github]
+[<img align="left" alt="subathra | LinkedIn" width="22px" src="https://github.com/Subathra19/Subathra19/blob/main/images/icons8-linkedin-48.png" />][Linkedin]
+[<img align="left" alt="subathra | CodeWars" width="22px" src="https://github.com/Subathra19/Subathra19/blob/main/images/codewars-icon-48.png" />][CodeWars]
 
 <br>
 <!--
@@ -34,6 +34,8 @@ Hey there, I'm Subathra - a **Network Analytics Engineer** at **Eishaa Networks*
   >> * An algorithm was introduced to switch the eNB nodes between different states (isolated, meshed, vUE) based on the mobility of nodes and availability of the core network.
   >> * Reviewed the model and ﬁxed the issues raised during the integration of the module. 
 
+### ⚙️ &nbsp;GitHub Analytics
+
 **Streaks & Trophies:**
 <br/>
 <br/>
@@ -46,7 +48,7 @@ Hey there, I'm Subathra - a **Network Analytics Engineer** at **Eishaa Networks*
     <img width="50%" align="right" alt="Subathra's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subathra19&layout=compact&theme=blue-green" />
  </p> 
 
-### **Languages and Tools:**
+### 🛠 &nbsp;Tech Stack
   <p>
   <code><img src="https://img.icons8.com/color/96/000000/c-programming.png"></code>
   <code><img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png"></code>
