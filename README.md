@@ -42,6 +42,7 @@ Hey there, I'm Subathra - a **Network Analytics Engineer** at **Eishaa Networks*
 
 
 ### **Streaks & Trophies:**
+
 <br/>
 <br/>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Subathra19&theme=onedark&row=3&column=4" alt="slim coder's trophies" />
