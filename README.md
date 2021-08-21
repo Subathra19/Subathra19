@@ -15,7 +15,7 @@
 
 
 ### On the Job
-> **Network Analtics Engineer ** @Eishaa Networks, Chennai.
+> **Network Analtics Engineer** @Eishaa Networks, Chennai.
 >>**Low power design of Network on Chip** 
   >> * Implemented conventional Network on Chip (NoC) with XY routing algorithm using SimEvents and Simulink toolboxes in Simulink.
   >> * Designed and implemented NoC with a reduced number of routers.
